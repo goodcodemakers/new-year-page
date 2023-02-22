@@ -14,7 +14,7 @@
 
 1.제작자 : 최정호
 
-2.연하장 링크 : [최정호]https://port-0-new-year-page-fao2flc07msv7.gksl2.cloudtype.app/
+2.연하장 링크 : [최정호https://port-0-new-year-page-r8xoo2mlefbgk04.sel3.cloudtype.app/
 
 3.깃허브 링크 : https://github.com/goodcodemakers/new-year-page
 
